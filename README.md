@@ -4,12 +4,12 @@ For News Articles
 -----------------
 
 ### Team Members
-| Name                           | Git Account URL                    |
-|--------------------------------|-------------------------------------
-| Dinesh Pandarinathan Subramani | https://github.com/dineshpsubramani|
-| Vibha Dharmendra Bhambhani     |  |
+| Name                           | Git Account URL                     |
+|--------------------------------|--------------------------------------
+| Dinesh Pandarinathan Subramani | https://github.com/dineshpsubramani |
+| Vibha Dharmendra Bhambhani     | https://github.com/vibhabhambhani   |
 | Shakshi Maheswari              | https://github.com/shakshimaheshwari|
-| Sharanya Vishnampettai Raju    | |
+| Sharanya Vishnampettai Raju    | https://github.com/SharanyaVR       |
 
 
 #Introduction
