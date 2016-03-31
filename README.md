@@ -7,7 +7,7 @@ For News Articles
 | Name                           | Git Account URL                    |
 |--------------------------------|-------------------------------------
 | Dinesh Pandarinathan Subramani | https://github.com/dineshpsubramani|
-| Vibha Dharmendra Bhambani      |  |
+| Vibha Dharmendra Bhambhani     |  |
 | Shakshi Maheswari              | https://github.com/shakshimaheshwari|
 | Sharanya Vishnampettai Raju    | |
 
